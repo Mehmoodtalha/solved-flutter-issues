@@ -4,7 +4,7 @@ WiseUp TV application for movies and live TV shows
 ## solved 1st time runing issues
 ### 1st issue 
 remove or comment this line in or project android/app/src/main/AndroidManifest.xml file
-    android:icon="@mipmap/launcher_icon"
+        android:icon="@mipmap/launcher_icon"
 
 ### 2nd issue
 replace these code in your pub cache package_info_plus_windows-2.1.0/lib/src/file_version_info.dart
